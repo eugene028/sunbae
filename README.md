@@ -15,9 +15,8 @@ http://3.38.10.198/
 
 ![선배님 메인화면](https://user-images.githubusercontent.com/67894159/163300779-42752302-24ca-4a25-9eca-402e5550c878.JPG)
 
-
-<div align="center">
 ## 🛠 기술 stack
+<div align="center">
 <img  src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 <img  src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
